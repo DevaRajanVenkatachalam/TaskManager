@@ -199,6 +199,14 @@ export default API;
 
 ---
 
+## Future Enhancements
+
+- Add drag-and-drop functionality for task prioritization.
+- Implement real-time updates using WebSockets.
+- Add due dates and reminders for tasks.
+
+---
+
 
 ## License
 
